@@ -110,7 +110,7 @@ INSERT INTO `mob_family_system` VALUES (57,'Buffalo',33,'Buffalo',6,'Beast',2,40
 INSERT INTO `mob_family_system` VALUES (58,'Bugard',34,'Bugard',14,'Lizard',1,40,115,110,4,4,4,4,4,4,4,1,3,1,3,1,2,0);
 INSERT INTO `mob_family_system` VALUES (59,'Bugbear',35,'Bugbear',7,'Beastmen',1,40,125,90,3,2,5,2,6,4,5,1,2,1,3,5,1,0);
 INSERT INTO `mob_family_system` VALUES (60,'CaitSith',36,'CaitSith',5,'Avatar',0,40,100,120,3,3,3,3,3,3,3,1,3,1,3,0,1,0);
-INSERT INTO `mob_family_system` VALUES (61,'Cardian',37,'Cardian',3,'Arcana',0,40,109,140,1,3,4,5,4,4,3,1,3,1,3,6,34,0);
+INSERT INTO `mob_family_system` VALUES (61,'Cardian_Swords',37,'Cardian',3,'Arcana',0,40,109,140,1,3,4,5,4,4,3,1,3,1,3,1,34,0);
 INSERT INTO `mob_family_system` VALUES (62,'Cerberus',38,'Cerberus',6,'Beast',3,80,100,90,1,1,3,1,1,1,2,1,3,1,3,1,2,0);
 INSERT INTO `mob_family_system` VALUES (63,'Chariot',39,'Chariot',4,'ArchaicMachine',3,40,90,90,1,3,4,3,6,6,5,1,3,1,3,0,34,0);
 INSERT INTO `mob_family_system` VALUES (64,'Chigoe',40,'Chigoe',20,'Vermin',0,40,120,90,3,2,1,6,6,4,5,1,3,1,3,4,3,0);
@@ -538,6 +538,9 @@ INSERT INTO `mob_family_system` VALUES (510,'Punctured_Percy',28,'Ghost',19,'Und
 INSERT INTO `mob_family_system` VALUES (511,'Mauled_Murdock',28,'Ghost',19,'Undead',1,40,104,140,6,3,4,4,1,5,4,1,3,1,3,2,6,0);
 INSERT INTO `mob_family_system` VALUES (512,'Cockatrice_Ziz',43,'Cockatrice',8,'Bird',1,40,118,140,4,5,3,4,4,4,4,1,3,1,5,4,1,0);
 INSERT INTO `mob_family_system` VALUES (513,'Quasilumin',15,'Luminian',0,'Unclassified',1,25,100,100,5,5,5,5,5,5,5,5,5,5,5,0,2,0);
+INSERT INTO `mob_family_system` VALUES (514,'Cardian_Batons',37,'Cardian',3,'Arcana',0,40,109,140,1,3,4,5,4,4,3,1,3,1,3,4,34,0);
+INSERT INTO `mob_family_system` VALUES (515,'Cardian_Coins',37,'Cardian',3,'Arcana',0,40,109,140,1,3,4,5,4,4,3,1,3,1,3,7,34,0);
+INSERT INTO `mob_family_system` VALUES (516,'Cardian_Cups',37,'Cardian',3,'Arcana',0,40,109,140,1,3,4,5,4,4,3,1,3,1,3,6,34,0);
 
 -- Family IDs 10,22,50,96,111,317-318,405,412-434,439-443 available for use
 
